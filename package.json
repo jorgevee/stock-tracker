@@ -1,0 +1,23 @@
+{
+  "name": "stock-port-tracker",
+  "version": "1.0.0",
+  "description": "Stock Tracker App",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jorgevee/stock-tracker.git"
+  },
+  "author": "JV",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jorgevee/stock-tracker/issues"
+  },
+  "homepage": "https://github.com/jorgevee/stock-tracker#readme",
+  "dependencies": {
+    "create-react-app": "^3.4.0",
+    "express": "^4.17.1"
+  }
+}
